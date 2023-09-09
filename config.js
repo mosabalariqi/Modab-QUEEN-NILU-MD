@@ -46,9 +46,9 @@ global.BOT_NAME = 'Mosab-Alariqi'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Mosab' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = 'Queen 2023 '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
